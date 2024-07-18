@@ -7,6 +7,7 @@ import mindustry.mod.*;
 public class DiamondOre extends Mod{
 
     public DiamondOre(){
+        loadContent();
     }
 
     @Override
