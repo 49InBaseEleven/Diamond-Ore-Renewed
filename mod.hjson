@@ -8,7 +8,7 @@ name: "diamondore"
 author: "z0mbiesrock"
 
 #the fully qualified main class of the mod
-main: "diamondore.DiamondOre.java"
+main: "diamondore.DiamondOre"
 
 #the mod description as seen in the mod dialog
 description: "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more. \n\nThis mod has been polished and updated to v7 by a 3rd party"
