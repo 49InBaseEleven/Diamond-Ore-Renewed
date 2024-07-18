@@ -41,6 +41,7 @@ version.properties
 ## Java
 
 *.class
+*.java
 *.war
 *.ear
 hs_err_pid*
