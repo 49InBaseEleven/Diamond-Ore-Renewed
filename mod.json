@@ -1,0 +1,11 @@
+{
+    "name": "diamondore",
+    "displayName": "Renewed Diamond Ore Mod",
+    "author": "z0mbiesrock",
+    "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more. \n\nThis mod has been polished and updated to v7 by a 3rd party",
+    "version": "4.2",
+    "main": "src.diamondore.DiamondOre",
+    "minGameVersion": "146",
+    "java": true,
+    "hidden": false
+}
